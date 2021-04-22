@@ -1,0 +1,22 @@
+.park{
+    position: absolute;
+    /* top: 33px; */
+    left:485px;
+    width: 412px;
+    height: 94px;
+    box-shadow:0.5px 0.5px 2px 2px #eaeaea;
+    background: #fff;
+    font-size: 14px;
+    color: #000;
+}
+.park>p{
+    height: 31px;
+    line-height: 31px;
+    padding-left: 11px;
+    border-bottom: 1px solid #eaeaea;
+    color: #000;
+}
+.park>img{
+    margin-top: 15px;
+    margin-left: 11px;
+}

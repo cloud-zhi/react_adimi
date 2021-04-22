@@ -1,0 +1,23 @@
+.swiper-container{
+    
+    width: 100% ;
+    max-width: 1920px;
+    height: 400px;
+}
+.swiper-container>div{
+    width: 100%;
+    max-width: 1920px;
+}
+.swicc{
+    width: 100%;
+    max-width: 1920px;
+
+    overflow: hidden;
+    margin: 0 auto;
+
+}
+.swicc img{
+    margin-left: -330px;
+    height: 400px;
+    /* width: 1920px; */
+}

@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style-type:none;
+    box-sizing: border-box;
+    
+}
+.nav {
+    position: relative;
+    /* overflow: hidden; */
+    z-index: 100;
+}
+.nav{
+    color: #fff;
+    font-size: 12px;
+    background-color: #06060b;
+    /* height: 28px;
+    line-height: 28px; */
+}
+.header{
+    border-bottom: 1px solid #e8e8e8;
+    background-color: #fff;
+    transition: all .2s;
+}
+#swiper{
+    position: absolute;
+    top: 78px;
+}

@@ -1,0 +1,17 @@
+.select4{
+    position: absolute;
+    z-index: 1000;
+    top: 50px;
+    width: 150px;
+    height: 140px;
+    border-radius: 5px;
+    background: #fff;
+    
+}
+.select4>div{
+    font-size: 14px;
+    margin-left: -40px;
+    line-height: 35px;
+    height: 35px;
+    color: rgba(0,0,0,.6)
+}

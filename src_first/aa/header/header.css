@@ -1,0 +1,51 @@
+.headerimg{
+    width: 92px;
+    height: 45px;
+    float: left;
+    margin-right: 30px;
+}
+.headernav{
+    width: 818.22px;
+}
+.headernav>li{
+    width: 74px;
+    height: 50px;
+    float: left;
+    line-height: 46px;
+    font-size: 17px;
+    text-align: center;
+}
+.headernav>li>a{
+    text-decoration: none;
+    color: rgba(0,0,0,.65)
+}
+.headernav>li:hover{
+    border-bottom: 2px solid #2289ff;
+}
+.headernav>li:hover>a{
+    color:#2289ff;
+}
+.headernav>:nth-child(3)>div{
+    display: none;
+}
+.headernav>:nth-child(3):hover>div{
+    display: block;
+}
+.headernav>:nth-child(4)>div{
+    display: none;
+}
+.headernav>:nth-child(4):hover>div{
+    display: block;
+}
+.headernav>:nth-child(6)>div{
+    display: none;
+}
+.headernav>:nth-child(6):hover>div{
+    display: block;
+}
+.headernav>:nth-child(5)>div{
+    display: none;
+}
+.headernav>:nth-child(5):hover>div{
+    display: block;
+}
